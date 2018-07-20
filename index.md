@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Kickstarter and Board games: A shif in the industry
 
-You can use the [editor on GitHub](https://github.com/diegocamlooker/gitpages/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 <iframe
   src="https://dcl.dev.looker.com/embed/looks/908"
@@ -10,6 +8,21 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   height="500"
   frameborder="2">
 </iframe>
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------
+
+## How to build the site:
+
+You can use the [editor on GitHub](https://github.com/diegocamlooker/gitpages/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
