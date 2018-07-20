@@ -1,7 +1,7 @@
 # Kickstarter and Board games: A shift in the industry
 
 <iframe
-  src="https://dcl.dev.looker.com/embed/explore/merge?mid=tYPXdKRcJWKSOVDj3uLfK3&toggle=mrp,vis"
+  src="https://dcl.dev.looker.com/explore/merge?mid=7sOQlu9Pc5paWXAuRi1UyO&toggle=dat,mrp,vis"
   width="800"
   height="500"
   frameborder="2">
