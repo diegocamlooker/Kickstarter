@@ -63,12 +63,11 @@ Kickstarter explore with the followin sql_always_where clause:
 
 Filtering from the results all categories but Tabletop Games, removing `suspended`,`canceled` and `live` status (not very trustworthy and a minority) and the last month in the dataset, as it wasn't complete (we will be focusing on months in our date fields).
 
-**kickstarter_prediction** 
+- **kickstarter_prediction** 
 
 Same than `kickstarter_boardgames` but joined with `mr_dates` for a prediction analysis purpose.
 
-**kickstarter_facts** Derived table (no persistance added) with some interesting info.
-
+- **kickstarter_facts** Derived table (no persistance added) with some interesting info.
 
 A data warehouse plan is accessible from [here](https://docs.google.com/document/d/1ruow7fZZsb8bLO0r0rU3tGHZlfpi5vxq4wo4PIE-ikc/edit?usp=sharing) with all the fields and some explanations.
 
