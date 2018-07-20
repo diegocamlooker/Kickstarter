@@ -2,12 +2,25 @@
 
 
 
+# Kickstarter 
+
+# And what about the Board Games?
+
 <iframe
   src="https://dcl.dev.looker.com/embed/looks/908"
-  width="950"
+  width="800"
   height="500"
   frameborder="2">
 </iframe>
+
+# What is the BGG?
+
+# Let's take a look on my shelves!
+
+# Let's take a look on my shelves!
+
+
+
 
 
 
