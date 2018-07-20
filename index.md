@@ -1,4 +1,4 @@
-## Kickstarter and Board games: A shift in the industry
+# Kickstarter and Board games: A shift in the industry
 
 <iframe
   src="https://dcl.dev.looker.com/embed/merge?mid=tYPXdKRcJWKSOVDj3uLfK3&toggle=mrp,vis"
@@ -7,10 +7,14 @@
   frameborder="2">
 </iframe>
 
+----------------------------------------------------------------------------------------------------------------------------
+## Kickstarter 
 
-# Kickstarter 
 
-# And what about the Board Games?
+
+
+----------------------------------------------------------------------------------------------------------------------------
+## And what about the Board Games?
 
 <iframe
   src="https://dcl.dev.looker.com/embed/looks/908"
@@ -19,11 +23,15 @@
   frameborder="2">
 </iframe>
 
-# What is the BGG?
+----------------------------------------------------------------------------------------------------------------------------
+## What is the BGG?
 
-# Let's take a look on my shelves!
+----------------------------------------------------------------------------------------------------------------------------
+## Let's take a look on my shelves!
 
-# Let's take a look on my shelves!
+
+----------------------------------------------------------------------------------------------------------------------------
+## Final thoughts and and future work
 
 
 
@@ -35,7 +43,6 @@
 
 
 ----------------------------------------------------------------------------------------------------------------------------
-
 ## How to build the site:
 
 You can use the [editor on GitHub](https://github.com/diegocamlooker/gitpages/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
