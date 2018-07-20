@@ -5,7 +5,7 @@
 <iframe
   src="https://dcl.dev.looker.com/embed/looks/908"
   width="800"
-  height="500"
+  height="550"
   frameborder="2">
 </iframe>
 
