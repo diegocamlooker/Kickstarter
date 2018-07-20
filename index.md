@@ -1,6 +1,7 @@
 # Kickstarter and Board games: A shift in the industry
 
-![alt text](https://drive.google.com/file/d/1P_1E_l6rkaiwR3dU0Oyu0T6-Z0a6HQ93/view?usp=sharing "Merged results image")
+<iframe src="https://drive.google.com/file/d/1P_1E_l6rkaiwR3dU0Oyu0T6-Z0a6HQ93/preview" width="640" height="480"></iframe>
+
 
 ----
 ## Kickstarter 
