@@ -1,4 +1,4 @@
-# Kickstarter and Board games: A shift in the industry
+## Kickstarter and Board games: A shift in the industry
 
 1. Introduction and Preliminary Analysis
 1. Kickstarter  
