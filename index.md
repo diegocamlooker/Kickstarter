@@ -4,11 +4,11 @@
 
 In case you haven't, you can find the proposal [here](https://docs.google.com/document/d/1CZZHJnXCOYr8Z4QAcijjOpHdnpvFJK70EtHQ7kKzMRs/edit?usp=sharing). Some info that might be also useful is:
 
-BigQuery project: `lookerdata:diegocam_thesis`
+- BigQuery project: `lookerdata:diegocam_thesis`
 
-Looker instance: https://dcl.dev.looker.com/
+- Looker instance: https://dcl.dev.looker.com/
 
-Model name: `diegocam_thesis`
+- Model name: `diegocam_thesis`
 
 It is divided into the following parts:
 
