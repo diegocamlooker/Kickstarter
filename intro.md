@@ -37,7 +37,7 @@ For the purpose of this project, we are going to use four datasets coming from d
 
 # Preliminary Analysis
 
-After reviewing the data, I determined to create 5 Explores in my model:
+After reviewing the data, I determined to create 7 Explores in my model:
 
 - **kickstarter** 
 
