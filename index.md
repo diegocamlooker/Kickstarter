@@ -19,4 +19,8 @@ It is divided into the following parts:
 1. [Let's take a look on my shelves!](https://diegocamlooker.github.io/Kickstarter/collection).
 1. [Final thoughts and and future work](https://diegocamlooker.github.io/Kickstarter/final).
 
+**Enjoy** :) 
+
+---
+
                                         
