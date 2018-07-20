@@ -50,3 +50,8 @@
   height="500"
   >
 </iframe>
+
+
+
+---
+Move to [And what about the Board Games? page](https://diegocamlooker.github.io/Kickstarter/ks_boardgames)
