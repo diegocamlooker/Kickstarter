@@ -6,7 +6,7 @@ In case you haven't read it yet, you can find the proposal [here](https://docs.g
 
 - BigQuery project: `lookerdata:diegocam_thesis`
 
-- Looker instance: https://dcl.dev.looker.com/
+- Looker instance: [https://dcl.dev.looker.com/] (https://dcl.dev.looker.com/)
 
 - Model name: `diegocam_thesis`
 
