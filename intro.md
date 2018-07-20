@@ -59,7 +59,7 @@ After reviewing the data, I determined to create 7 Explores in my model:
 
    Kickstarter explore with the followin sql_always_where clause:
 
-```sql_always_where: ${category} IN ("Tabletop Games") and ${state} IN ("successful","failed") and ${launched_month} NOT IN ("2018-01","2017-12");;```
+   ```sql_always_where: ${category} IN ("Tabletop Games") and ${state} IN ("successful","failed") and ${launched_month} NOT IN   ("2018-01","2017-12");;```
 
   Filtering from the results all categories but Tabletop Games, removing `suspended`,`canceled` and `live` status (not very 
   trustworthy and a minority) and the last month in the dataset, as it wasn't complete (we will be focusing on months in our
@@ -73,7 +73,7 @@ After reviewing the data, I determined to create 7 Explores in my model:
 
   Derived table (no persistance added) with some interesting info.
 
-  A data warehouse plan is accessible from [here](https://docs.google.com/document/d/1ruow7fZZsb8bLO0r0rU3tGHZlfpi5vxq4wo4PIE-ikc/edit?usp=sharing) with all the fields and some explanations.
+A data warehouse plan is accessible from [here](https://docs.google.com/document/d/1ruow7fZZsb8bLO0r0rU3tGHZlfpi5vxq4wo4PIE-ikc/edit?usp=sharing) with all the fields and some explanations.
 
 ---
 
