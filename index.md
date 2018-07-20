@@ -1,4 +1,4 @@
-## Kickstarter and Board games: A shif in the industry
+## Kickstarter and Board games: A shift in the industry
 
 
 
