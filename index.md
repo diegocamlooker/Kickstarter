@@ -1,19 +1,14 @@
 # Kickstarter and Board games: A shift in the industry
 
-<iframe
-  src="https://dcl.dev.looker.com/explore/merge?mid=7sOQlu9Pc5paWXAuRi1UyO&toggle=dat,mrp,vis"
-  width="800"
-  height="500"
-  frameborder="2">
-</iframe>
+![alt text](https://drive.google.com/file/d/1P_1E_l6rkaiwR3dU0Oyu0T6-Z0a6HQ93/view?usp=sharing "Merged results image")
 
-----------------------------------------------------------------------------------------------------------------------------
+----
 ## Kickstarter 
 
 
 
 
-----------------------------------------------------------------------------------------------------------------------------
+----
 ## And what about the Board Games?
 
 <iframe
@@ -23,14 +18,14 @@
   frameborder="2">
 </iframe>
 
-----------------------------------------------------------------------------------------------------------------------------
+----
 ## What is the BGG?
 
-----------------------------------------------------------------------------------------------------------------------------
+----
 ## Let's take a look on my shelves!
 
 
-----------------------------------------------------------------------------------------------------------------------------
+----
 ## Final thoughts and and future work
 
 
