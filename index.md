@@ -4,12 +4,12 @@ You can use the [editor on GitHub](https://github.com/diegocamlooker/gitpages/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<html>
-<body>
-<iframe src="https://dcl.dev.looker.com/embed/looks/908" height="200">
+<iframe
+  src="https://dcl.dev.looker.com/embed/looks/908"
+  width="600"
+  height="300"
+  frameborder="0">
 </iframe>
-</body>
-</html>
 
 ### Markdown
 
