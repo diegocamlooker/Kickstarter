@@ -15,7 +15,19 @@
 
 ## Kickstarter 
 
+<iframe
+  src="https://dcl.dev.looker.com/looks/866"
+  width="800"
+  height="500"
+  frameborder="2">
+</iframe>
 
+<iframe
+  src="https://dcl.dev.looker.com/embed/looks/865"
+  width="800"
+  height="500"
+  frameborder="2">
+</iframe>
 
 <iframe
   src="https://dcl.dev.looker.com/embed/looks/865"
@@ -31,7 +43,6 @@
   frameborder="2">
 </iframe>
 
-
 <iframe
   src="https://dcl.dev.looker.com/embed/looks/906"
   width="800"
@@ -39,6 +50,12 @@
   frameborder="2">
 </iframe>
 
+<iframe
+  src="https://dcl.dev.looker.com/embed/looks/878"
+  width="800"
+  height="500"
+  frameborder="2">
+</iframe>
 
 ----
 ## And what about the Board Games?
