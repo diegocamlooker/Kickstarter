@@ -1,20 +1,17 @@
-# Kickstarter and Board games: 
-### A shift in the industry
+# Kickstarter and Board games: A shift in the industry
 
-## Introduction
+1. Introduction and Preliminary Analysis
+1. Kickstarter  
+1. And what about the Board Games?
+1. What is the BGG?
+1. Let's take a look on my shelves!
+1. Final thoughts and and future work
 
-
-
-
-----
-## Preliminary Analysis
-
-
-
+# Introduction and Preliminary Analysis
 
 ----
 
-## Kickstarter 
+# Kickstarter 
 
 <iframe
   src="https://dcl.dev.looker.com/embed/looks/866"
@@ -63,14 +60,14 @@
 
 
 <iframe
-  src="https://dcl.dev.looker.com/embed/looks/878"
+  src="https://dcl.dev.looker.com/embed/looks/899"
   width="800"
   height="500"
   frameborder="2">
 </iframe>
 
 ----
-## And what about the Board Games?
+# And what about the Board Games?
 
 <iframe src="https://drive.google.com/file/d/1P_1E_l6rkaiwR3dU0Oyu0T6-Z0a6HQ93/preview" width="640" height="480"></iframe>
 
@@ -98,10 +95,10 @@
 
 
 ----
-## What is the BGG?
+# What is the BGG?
 
 ----
-## Let's take a look on my shelves!
+# Let's take a look on my shelves!
 
 >> I am done with games this month, I promise!
 
