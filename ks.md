@@ -3,7 +3,7 @@
 <iframe
   src="https://dcl.dev.looker.com/embed/looks/866"
   width="800"
-  height="500"
+  height="500">
   
 </iframe>
 
@@ -16,7 +16,7 @@
 <iframe
   src="https://dcl.dev.looker.com/embed/looks/871"
   width="800"
-  height="500"
+  height="500">
   
 </iframe>
 
