@@ -7,7 +7,7 @@ Oh no, yesterday I backed another Kickstarter [campaign](https://www.kickstarter
 
 The steps to start a Kickstarter project are: start a campaign, set the minimum funding goal, set reward levels and choose a deadline. The most important aspect to know about launching a Kickstarter project is that if the project falls short of meeting its minimum funding goal, the project will not receive any fund and turn out failed.
 
-For the purpose of this project, we are going to use three datasets coming from different sources:
+For the purpose of this project, we are going to use four datasets coming from different sources:
 
 - **ks-projects-201801**
   
