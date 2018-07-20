@@ -1,6 +1,6 @@
 ## Kickstarter and Board games: A shift in the industry
 
-1. [Introduction and Preliminary Analysis] (https://diegocamlooker.github.io/Kickstarter/intro)
+[Introduction and Preliminary Analysis] (https://diegocamlooker.github.io/Kickstarter/intro)
 1. [Kickstarter] (https://diegocamlooker.github.io/Kickstarter/ks)
 1. [And what about the Board Games?] (https://diegocamlooker.github.io/Kickstarter/ks_boardgames)
 1. [What is the BGG?] (https://diegocamlooker.github.io/Kickstarter/bgg)
