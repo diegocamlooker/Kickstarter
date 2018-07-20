@@ -6,9 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <iframe
   src="https://dcl.dev.looker.com/embed/looks/908"
-  width="600"
-  height="300"
-  frameborder="0">
+  frameborder="2">
 </iframe>
 
 ### Markdown
