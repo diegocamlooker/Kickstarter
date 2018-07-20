@@ -23,3 +23,6 @@
   height="500"
   frameborder="2">
 </iframe>
+
+---
+Move to [What is the BGG? page](https://diegocamlooker.github.io/Kickstarter/bgg)
