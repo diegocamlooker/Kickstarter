@@ -46,6 +46,7 @@ Same for `USD` and `projects`: there was a very successful and expensive game ([
 
 KS has 15 different `main categories` with a different success ratio:
 
+<p align="center">
 <iframe
   src="https://dcl.dev.looker.com/embed/looks/872"
   width="800"
@@ -54,25 +55,48 @@ KS has 15 different `main categories` with a different success ratio:
  >
 </iframe>
 
-Dance and Theater are the most succesful categories and curiously, **Technology** is the least succesful one!
+Dance and Theater are the most succesful categories and, curiously, **Technology** is the least succesful one!
 
 > Tip 2: It is never too late to fulfill your stage dreams.
 
+Overall:
 
+<p align="center">
+<iframe
+  src="https://dcl.dev.looker.com/embed/looks/920"
+  width="800"
+  height="500"
+   frameborder='0'
+ >
+</iframe>
+
+Not that easy!
+
+Taking out non successful campaign and dividing each of those main categories into their secondaries, here are the Top 25 of them by `USD`: 
+
+<p align="center">
 <iframe
   src="https://dcl.dev.looker.com/embed/looks/906"
   width="800"
   height="500"
    frameborder='0'>
-</iframe>
+</iframe></p>
 
+And how the rank changed the last 5 years:
+
+<p align="center">
 <iframe
   src="https://dcl.dev.looker.com/embed/looks/899"
   width="800"
   height="500"
    frameborder='0'
   >
-</iframe>
+</iframe></p>
+
+> Tip 3: Project design is what makes a project succesful. 
+
+Wow, it is really impressive how much money is spent on Board Games in KS!
+
 
 
 
