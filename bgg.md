@@ -15,9 +15,34 @@ This is what happens if we divide them by released year:
 
 If you check the graph above, more games doesn't equal to better games (used the `geek rating`), and again, we are not counting 95% of them that hasn't made the cut!
 
+Since 2011, there are much more games released in KS that the industry could even play:
+
+<p align="center"><iframe src="https://drive.google.com/file/d/1P_1E_l6rkaiwR3dU0Oyu0T6-Z0a6HQ93/preview" width="800" height="500"></iframe></p>
+
 But which percentage of them comes from KS?
 
-<iframe src="https://drive.google.com/file/d/1P_1E_l6rkaiwR3dU0Oyu0T6-Z0a6HQ93/preview" width="640" height="480"></iframe>
+<p align="center">
+<iframe
+  src="https://dcl.dev.looker.com/embed/looks/886"
+  width="800"
+  height="500"
+   frameborder='0'>
+</iframe></p>
+
+And the question is: Is a large overfunded game equals to a good ranked one?
+
+<p align="center">
+<iframe
+  src="https://dcl.dev.looker.com/embed/looks/904"
+  width="800"
+  height="500"
+   frameborder='0'>
+</iframe></p>
+
+
+> Tip 7:
+
+> Tip 8:
 
 
 
