@@ -16,3 +16,7 @@
 * Ammend the `Kickstarter` dataset with a new column containing the `bgg name` field related to that specific `project name`, in order to not to miss data when joining both tables in the ``explore{}``.
 * Having more info to play with: number of pledges, backers country, number of updates in the campaign, comments in the page, video yes/no, etc...
 * Stop buying more games, and play them!
+
+---
+
+## Interesting (or not) Facts
