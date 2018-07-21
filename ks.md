@@ -5,24 +5,28 @@ In less than 8 years of existence, the platform:
 <p align="center">
 <iframe
   src="https://dcl.dev.looker.com/embed/looks/871"
-  width="300"
-  height="125"
+  width="400"
+  height="250"
    frameborder='0'>
 </iframe></p>
 
+<p align="center">
 <iframe
   src="https://dcl.dev.looker.com/embed/looks/915"
-  width="300"
-  height="125"
+  width="400"
+  height="250"
    frameborder='0'>
-</iframe>
+</iframe></p>
 
+<p align="center">
 <iframe
   src="https://dcl.dev.looker.com/embed/looks/916"
-  width="300"
-  height="125"
+  width="400"
+  height="250"
    frameborder='0'>
-</iframe>
+</iframe></p>
+
+The evolution per month over time is:
 
 <iframe
   src="https://dcl.dev.looker.com/embed/looks/865"
@@ -30,7 +34,6 @@ In less than 8 years of existence, the platform:
   height="500"
    frameborder='0'>
 </iframe>
-
 
 <iframe
   src="https://dcl.dev.looker.com/embed/looks/866"
