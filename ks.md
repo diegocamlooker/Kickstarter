@@ -1,25 +1,25 @@
 # Kickstarter 
 
-In 8 years of existence, Kickstarter: 
+In less than 8 years of existence, the platform: 
 
 <iframe
   src="https://dcl.dev.looker.com/embed/looks/871"
-  width="200"
-  height="150"
+  width="400"
+  height="250"
    frameborder='0'>
 </iframe>
 
 <iframe
   src="https://dcl.dev.looker.com/embed/looks/915"
-  width="200"
-  height="150"
+  width="400"
+  height="300"
    frameborder='0'>
 </iframe>
 
 <iframe
   src="https://dcl.dev.looker.com/embed/looks/916"
-  width="200"
-  height="150"
+  width="400"
+  height="300"
    frameborder='0'>
 </iframe>
 
