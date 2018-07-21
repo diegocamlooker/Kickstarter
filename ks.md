@@ -42,7 +42,7 @@ On the other hand, sometimes there is a big difference between number of `backer
 
 Same for `USD` and `projects`: there was a very successful and expensive game ([this beauty](https://www.kickstarter.com/projects/poots/kingdom-death-monster-15?ref=most_funded&ref=discovery)) launching in November 2016.
 
-> Tip 1: Don't create your campaign in **December**, people are busy buying other stuff.
+> Tip 1: Don't create your campaign in December, people are busy buying other stuff.
 
 KS has 15 different `main categories` with a different success ratio:
 
@@ -55,7 +55,7 @@ KS has 15 different `main categories` with a different success ratio:
  >
 </iframe></p>
 
-Dance and Theater are the most succesful categories and, curiously, **Technology** is the least succesful one!
+Dance and Theater are the most succesful categories and, curiously, Technology is the least succesful one!
 
 > Tip 2: It is never too late to fulfill your stage dreams.
 
