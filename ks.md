@@ -28,21 +28,17 @@ In less than 8 years of existence, the platform:
 
 The evolution per month over time is:
 
+<p align="center">
 <iframe
-  src="https://dcl.dev.looker.com/embed/looks/865"
+  src="https://dcl.dev.looker.com/embed/looks/918"
   width="800"
   height="500"
    frameborder='0'>
-</iframe>
+</iframe></p>
 
-<iframe
-  src="https://dcl.dev.looker.com/embed/looks/866"
-  width="800"
-  height="500"
-  frameborder='0'
-  >
-  
-</iframe>
+From the graphs above, we can see a direct relationshop between $USD and number of backers. On the other hand, sometimes there is a big difference between number of backers and number of projects, we can find this month some of the [most backed projects](https://www.kickstarter.com/discover/advanced?sort=most_backed&seed=2553607&page=1): for instance in October 2016, this big difference between number of projects and backers is the results of [this](https://www.kickstarter.com/projects/elanlee/bears-vs-babies-a-card-game?ref=discovery) + [this](https://www.kickstarter.com/projects/elanlee/bears-vs-babies-a-card-game?ref=discovery). 
+
+
 
 <iframe
   src="https://dcl.dev.looker.com/embed/looks/872"
