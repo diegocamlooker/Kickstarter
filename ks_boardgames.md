@@ -1,6 +1,6 @@
 # And what about the Board Games?
 
-TableTop Gaming is the second most funded category in KS, and it seems that nothing is going to change in the future:
+[TableTop Gaming](https://www.kickstarter.com/discover/categories/games/tabletop%20games) is the second most funded category in KS, and it seems that nothing is going to change in the future:
 
 <p align="center">
 <iframe
