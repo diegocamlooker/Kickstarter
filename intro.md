@@ -57,9 +57,9 @@ After reviewing the data, I determined to create 7 Explores in my model:
 
 - **kickstarter_boardgames** 
 
-   Kickstarter explore with the followin sql_always_where clause:
+   Kickstarter explore with the followin `sql_always_where` clause:
 
-   ```sql_always_where: ${category} IN ("Tabletop Games") and ${state} IN ("successful","failed") and ${launched_month} NOT IN   ("2018-01","2017-12");;```
+   ```sql_always_where: ${category} IN ("Tabletop Games") and ${state} IN ("successful","failed") and ${launched_month} NOT IN   ("2018-01");;```
 
   Filtering from the results all categories but Tabletop Games, removing `suspended`,`canceled` and `live` status (not very 
   trustworthy and a minority) and the last month in the dataset, as it wasn't complete (we will be focusing on months in our
