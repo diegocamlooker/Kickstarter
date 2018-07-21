@@ -1,5 +1,14 @@
 
-## Final thoughts and and future work
+## Final thoughts
+
+
+
+
+
+
+---
+
+## Future work
 
 * Choose a classification technique (k-NNs, SVC, Random Forest, etc) and create a real prediction model. 
 * Create a website based on it that can determine if the project you have in your head would be succesful or not with a given % accuracy.
