@@ -89,9 +89,9 @@ Here we realize that:
 
 - Tabletop fans are passionate, they back way more and on higher pledges than the average.
 
-- A shorter campaign usually is more successful than a long one (!).
+- A shorter campaign usually has a better performance than a long one (!).
 
-> Tip 5: Short campaigns have better performance than long ones. 29 days is a good duration.
+> Tip 5: Shorter here is better. 29 days is a good duration.
 
 Let's focus a little bit more on the `funding goal`:
 
@@ -127,7 +127,7 @@ Not that much! Historically, a game gets funded up to max of 9 times of its fund
    frameborder='0'>
 </iframe></p>
 
-> Tip 6: Don't put a high goal in your campaign in case you want to assure funding. But, if you have confidence and have a hit on hands, you might.
+> Tip 6: Don't put a high goal in your campaign in case you want to assure funding. But, if you have confidence and have a hit on hands, you might tempt the odds.
 
 We have been talking about the campaign but one other thing that comes in the picture is the actual *quality* of the product. Are these projects any good? How is this affecting to the industry? Is this the end of the physical shops? To answer this, we will need to ask the ones that know more: the geeks.
 
