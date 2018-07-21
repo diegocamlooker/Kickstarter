@@ -2,12 +2,13 @@
 
 In less than 8 years of existence, the platform: 
 
+<p align="center">
 <iframe
   src="https://dcl.dev.looker.com/embed/looks/871"
   width="300"
   height="125"
    frameborder='0'>
-</iframe>
+</iframe></p>
 
 <iframe
   src="https://dcl.dev.looker.com/embed/looks/915"
