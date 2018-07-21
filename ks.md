@@ -37,10 +37,14 @@ The evolution per month over time is:
 </iframe></p>
 
 From the graphs above, we can see a direct relationship between `$USD` and number of `backers`.
-On the other hand, sometimes there is a big difference between number of `backers` and `projects`, caused by having this month some of the [most backed projects](https://www.kickstarter.com/discover/advanced?sort=most_backed&seed=2553607&page=1) sharing campaign: for instance in October 2016, this big gap is a result of [this](https://www.kickstarter.com/projects/elanlee/bears-vs-babies-a-card-game?ref=discovery) + [this](https://www.kickstarter.com/projects/antsylabs/fidget-cube-a-vinyl-desk-toy?ref=discovery).
-Same for `USD` and `projects`, there was a very successful and expensive game ([this beauty](https://www.kickstarter.com/projects/poots/kingdom-death-monster-15?ref=most_funded&ref=discovery)) launching in November 2016.
 
-> Tip 1: Don't create your campaign in **December**, people is busy buying other stuff.
+On the other hand, sometimes there is a big difference between number of `backers` and `projects`, caused by having this month some of the [most backed projects](https://www.kickstarter.com/discover/advanced?sort=most_backed&seed=2553607&page=1) sharing campaign: for instance in October 2016, this big gap is a result of [this](https://www.kickstarter.com/projects/elanlee/bears-vs-babies-a-card-game?ref=discovery) + [this](https://www.kickstarter.com/projects/antsylabs/fidget-cube-a-vinyl-desk-toy?ref=discovery).
+
+Same for `USD` and `projects`: there was a very successful and expensive game ([this beauty](https://www.kickstarter.com/projects/poots/kingdom-death-monster-15?ref=most_funded&ref=discovery)) launching in November 2016.
+
+> Tip 1: Don't create your campaign in **December**, people are busy buying other stuff.
+
+KS has 15 different `main categories` with a different success ratio:
 
 <iframe
   src="https://dcl.dev.looker.com/embed/looks/872"
@@ -49,6 +53,10 @@ Same for `USD` and `projects`, there was a very successful and expensive game ([
    frameborder='0'
  >
 </iframe>
+
+Dance and Theater are the most succesful categories and curiously, **Technology** is the least succesful one!
+
+> Tip 2: It is never too late to fulfill your stage dreams.
 
 
 <iframe
