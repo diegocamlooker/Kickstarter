@@ -53,7 +53,7 @@ KS has 15 different `main categories` with a different success ratio:
   height="500"
    frameborder='0'
  >
-</iframe>
+</iframe></p>
 
 Dance and Theater are the most succesful categories and, curiously, **Technology** is the least succesful one!
 
@@ -64,11 +64,11 @@ Overall:
 <p align="center">
 <iframe
   src="https://dcl.dev.looker.com/embed/looks/920"
-  width="800"
-  height="500"
+  width="400"
+  height="250"
    frameborder='0'
  >
-</iframe>
+</iframe> </p>
 
 Not that easy!
 
