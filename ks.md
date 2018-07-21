@@ -36,9 +36,9 @@ The evolution per month over time is:
    frameborder='0'>
 </iframe></p>
 
-From the graphs above, we can see a direct relationshop between $USD and number of backers. On the other hand, sometimes there is a big difference between number of backers and number of projects, we can find this month some of the [most backed projects](https://www.kickstarter.com/discover/advanced?sort=most_backed&seed=2553607&page=1): for instance in October 2016, this big difference between number of projects and backers is the results of [this](https://www.kickstarter.com/projects/elanlee/bears-vs-babies-a-card-game?ref=discovery) + [this](https://www.kickstarter.com/projects/elanlee/bears-vs-babies-a-card-game?ref=discovery). 
+From the graphs above, we can see a direct relationshop between $USD and number of backers. On the other hand, sometimes there is a big difference between number of backers and number of projects, we can find this month some of the [most backed projects](https://www.kickstarter.com/discover/advanced?sort=most_backed&seed=2553607&page=1): for instance in October 2016, this big difference between number of projects and backers is the results of [this](https://www.kickstarter.com/projects/elanlee/bears-vs-babies-a-card-game?ref=discovery) + [this](https://www.kickstarter.com/projects/antsylabs/fidget-cube-a-vinyl-desk-toy?ref=discovery). 
 
-
+> Tip 1: Don't create your campaign in **December**, people is busy buying other stuff.
 
 <iframe
   src="https://dcl.dev.looker.com/embed/looks/872"
