@@ -4,22 +4,22 @@ In less than 8 years of existence, the platform:
 
 <iframe
   src="https://dcl.dev.looker.com/embed/looks/871"
-  width="400"
-  height="250"
+  width="300"
+  height="125"
    frameborder='0'>
 </iframe>
 
 <iframe
   src="https://dcl.dev.looker.com/embed/looks/915"
-  width="400"
-  height="300"
+  width="300"
+  height="125"
    frameborder='0'>
 </iframe>
 
 <iframe
   src="https://dcl.dev.looker.com/embed/looks/916"
-  width="400"
-  height="300"
+  width="300"
+  height="125"
    frameborder='0'>
 </iframe>
 
