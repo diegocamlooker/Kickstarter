@@ -41,7 +41,7 @@ And the question is: Is a large overfunded game equals to a good ranked one?
 
 > Tip 7: A very successful campaign doesn't mean that the game is good. Some of the best ranked games have barely met their funding goal.
 
-This is top 10 games that have started as a KS campaign:
+As a reference, we include the top 10 games in BGG that have started as a KS campaign:
 
 <p align="center">
 <iframe
