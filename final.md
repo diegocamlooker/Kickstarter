@@ -20,3 +20,7 @@
 ---
 
 ## Interesting (or not) Facts
+
+Longest Campaign:
+
+Least Funded Board Game:
