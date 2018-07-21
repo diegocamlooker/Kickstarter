@@ -2,6 +2,9 @@
 ## Final thoughts
 
 
+This year I have pledged 6 KS campaigns in less than 7 months. As the industry grows, you need to adapt 
+
+
 
 
 
@@ -24,3 +27,4 @@
 Longest Campaign:
 
 Least Funded Board Game:
+
