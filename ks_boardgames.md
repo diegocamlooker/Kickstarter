@@ -103,9 +103,11 @@ Let's focus a little bit more on the `funding goal`:
    frameborder='0'>
 </iframe></p>
 
+- Succesful projects has a project goal 2 times less than failed.
+
 The higher the funding goal is, the more risk you add to your campaign. The most succesful tier is: $1,000.00,$5,000.00.
 
-But normally, you don't want to only reach your funding goal, but also get a high overfunding rate, is this common?
+But normally, you don't want to only reach your funding goal, but also get a high `overfunding rate`, is this common?
 
 <p align="center">
 <iframe
@@ -125,7 +127,9 @@ Not that much! Historically, a game gets funded up to max of 9 times of its fund
    frameborder='0'>
 </iframe></p>
 
-> Tip 6: Don't put a high goal in your campaign in you want it funded. But, if you have confidence and have a hit on hands, you might.
+> Tip 6: Don't put a high goal in your campaign in case you want to assure funding. But, if you have confidence and have a hit on hands, you might.
+
+We have been talking about the campaign but one other thing that comes in the picture is the actual *quality* of the product. Are these projects any good? How is this affecting to the industry? Is this the end of the physical shops? To answer this, we will need to ask the ones that know more: the geeks.
 
 ---
 Move to [What is the BGG? page](https://diegocamlooker.github.io/Kickstarter/bgg)
