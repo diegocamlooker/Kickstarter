@@ -72,7 +72,7 @@ Overall:
 
 Not that easy!
 
-Taking out non successful campaign and dividing each of those main categories into their secondaries, here are the Top 25 of them by `USD`: 
+Taking out non successful campaign and dividing each of those main categories into their secondaries (159), here are the Top 25 of them by `USD`: 
 
 <p align="center">
 <iframe
