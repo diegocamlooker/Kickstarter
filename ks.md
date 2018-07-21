@@ -3,7 +3,9 @@
 <iframe
   src="https://dcl.dev.looker.com/embed/looks/866"
   width="800"
-  height="500">
+  height="500"
+  frameborder='0'
+  >
   
 </iframe>
 
