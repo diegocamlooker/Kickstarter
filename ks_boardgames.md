@@ -31,7 +31,17 @@ Translated into money, so far:
    frameborder='0'>
 </iframe></p>
 
-Which correspond with the **15%** of the total.
+Which correspond with the 
+
+<p align="center">
+<iframe
+  src="https://dcl.dev.looker.com/embed/looks/923"
+  width="400"
+  height="250"
+   frameborder='0'>
+</iframe></p>
+
+from the total.
 
 Where is this money coming from?
 
@@ -99,13 +109,21 @@ But normally, you don't want to only reach your funding goal, but also get a hig
 
 <p align="center">
 <iframe
-  src="https://dcl.dev.looker.com/embed/looks/818"
+  src="https://dcl.dev.looker.com/embed/looks/898"
   width="800"
   height="500"
    frameborder='0'>
 </iframe></p>
 
-Not that much! Normally a game gets funded up to max of 9 times of its funding.
+Not that much! Historically, a game gets funded up to max of 9 times of its funding, but this is changing:
+
+<p align="center">
+<iframe
+  src="https://dcl.dev.looker.com/embed/looks/922"
+  width="800"
+  height="500"
+   frameborder='0'>
+</iframe></p>
 
 > Tip 6: Don't put a high goal in your campaign in you want it funded. But, if you have confidence and have a hit on hands, you might.
 
