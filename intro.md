@@ -67,7 +67,7 @@ After reviewing the data, I determined to create 7 Explores in my model:
 
 - **kickstarter_prediction** 
 
-  Same than `kickstarter_boardgames` but joined with `mr_dates` for a prediction analysis purpose.
+  Same than `kickstarter_boardgames` but joined with `mr_dates` for prediction analysis purposes.
 
 - **kickstarter_facts** 
 
