@@ -129,7 +129,7 @@ Not that much! Historically, a game gets funded up to max of 9 times of its fund
 
 > Tip 6: Don't put a high goal in your campaign in case you want to assure funding. But, if you have confidence and have a hit on hands, you might tempt the odds.
 
-We have been talking about the campaign but one other thing that comes in the picture is the actual *quality* of the product. Are these projects any good? How is this affecting to the industry? Is this the end of the physical shops? To answer this, we will need to ask the ones that know more: the geeks.
+We have been talking about the campaign but one other thing that comes in the picture is the actual *quality* of the product. Are these projects any good? How is this affecting to the industry? Is this the end of the physical shops? To answer this, we will need to ask the ones that know more: **the geeks**.
 
 ---
 Move to [What is the BGG? page](https://diegocamlooker.github.io/Kickstarter/bgg)
