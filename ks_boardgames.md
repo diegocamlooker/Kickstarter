@@ -4,7 +4,16 @@ TableTop Gaming is the second most funded category in KS, and it seems that noth
 
 <p align="center">
 <iframe
-  src="https://dcl.dev.looker.com/embed/looks/891"
+  src="https://dcl.dev.looker.com/embed/looks/879"
+  width="800"
+  height="500"
+   frameborder='0'>
+</iframe></p>
+
+
+<p align="center">
+<iframe
+  src="https://dcl.dev.looker.com/embed/looks/908"
   width="800"
   height="500"
    frameborder='0'>
@@ -21,13 +30,6 @@ Translated into money, so far:
   height="250"
    frameborder='0'>
 </iframe></p>
-
-Which correspond with the **15%** of the total.
-
-
-
-
-
 
 Where is this money coming from?
 
@@ -48,6 +50,27 @@ Where is this money coming from?
 </iframe></p>
 
 This makes a lot of sense as Modern Board Games popularity raise started in Germany on the 90's (Catan, Carcassone, etc), and got spread over Europe soon after. EU has a more traditional business system: publishers and games coming to Retail. US doesn't have that many established publishers, so geeks/FLGS/online shops needs to order them from overseas at a high cost.
+
+Which correspond with the **15%** of the total.
+
+If we compare BoardGames with the rest of the KS population:
+
+<p align="center">
+<iframe
+  src="https://dcl.dev.looker.com/embed/looks/910"
+  width="800"
+  height="500"
+   frameborder='0'>
+</iframe></p>
+
+Here we realize that:
+
+- 
+
+
+
+
+
 
 This seems a good business, but, is there any rule for this? **What makes a Board Game campaign succesful?**
 
