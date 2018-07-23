@@ -36,8 +36,8 @@ Which correspond with the
 <p align="center">
 <iframe
   src="https://dcl.dev.looker.com/embed/looks/923"
-  width="400"
-  height="250"
+  width="500"
+  height="350"
    frameborder='0'>
 </iframe></p>
 
