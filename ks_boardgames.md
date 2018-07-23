@@ -61,7 +61,7 @@ Where is this money coming from?
    frameborder='0'>
 </iframe></p>
 
-This makes a lot of sense as Modern Board Games popularity raise started in Germany on the 90's (Catan, Carcassone, etc), and got spread over Europe soon after. EU has a more traditional business system: publishers and games coming to Retail. US doesn't have that many established publishers, so geeks/FLGS/online shops needs to order them from overseas at a high cost.
+This makes a lot of sense as Modern Board Games popularity raise started in Germany on the 90's (Catan, Carcassone, etc), and got spread over Europe soon after. EU has a more traditional business system: publishers and games coming to Retail. US doesn't have that many established publishers, so geeks/FLGS/online shops needs to order them from overseas at a high cost, turning KS a good alternative.
 
 > Tip 4: If you want to play a safe bet, move to France. Another example: World Cup.
 
@@ -75,7 +75,7 @@ This makes a lot of sense as Modern Board Games popularity raise started in Germ
 
 This seems a good business to be in, but, is there any rule for this? **What makes a Board Game campaign succesful?**
 
-If we compare BoardGames with the rest of the KS population:
+If we compare BoardGames with the **rest of the KS population**:
 
 <p align="center">
 <iframe
@@ -89,7 +89,7 @@ Here we realize that:
 
 - Tabletop fans are passionate, they back way more and on higher pledges than the average.
 
-- A shorter campaign usually has a better performance than a long one (!).
+- **A shorter campaign usually has a better performance than a long one (!)**.
 
 > Tip 5: Shorter here is better. 29 days is a good duration.
 
@@ -117,7 +117,7 @@ But normally, you don't want to only reach your funding goal, but also get a hig
    frameborder='0'>
 </iframe></p>
 
-Not that much! Historically, a game gets funded up to max of 9 times of its funding, but this is changing:
+Not that much! Historically, a game gets funded up to **max of 9 times** of its funding, but this is changing:
 
 <p align="center">
 <iframe
