@@ -11,7 +11,12 @@ test dynamic frames
   width="400"
   height="250"
    frameborder='0'>
-  type: "dashboard:run"
+  {
+  "type": "look:filters:update",
+  "filters": {
+    "state": "failed",
+  }
+}
 </iframe></p>
 
 ---
