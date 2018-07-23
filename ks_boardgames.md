@@ -21,7 +21,7 @@
 
 We can see a **linear trend** during the past years but, more important, by 2025, the number of successful projects per month will be the **double**. What is more, **72%** of the projects in this category will be successful, this is a good indicator of the hobby acceptance and bright future. 
 
-Translated into money, so far:
+Translated into **money**, so far:
 
 <p align="center">
 <iframe
@@ -105,7 +105,7 @@ Let's focus a little bit more on the `funding goal`:
 
 - Succesful projects has a project goal 2 times less than failed.
 
-The higher the funding goal is, the more risk you add to your campaign. The most succesful tier is: $1,000.00,$5,000.00.
+**The higher the funding goal is, the more risk you add to your campaign.** The most succesful tier is: $1,000.00,$5,000.00.
 
 But normally, you don't want to only reach your funding goal, but also get a high `overfunding rate`, is this common?
 
