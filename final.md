@@ -39,7 +39,7 @@ With this read a game data analyst might have more tools to create a better camp
 
 * Having more info to play with: number of pledges, backers country, number of updates in the campaign, comments in the page, video yes/no, etc...
 
-Tip 8: Stop buying more games, and play them!
+> Tip 8: Stop buying more games, and play them!
 
 ---
 
