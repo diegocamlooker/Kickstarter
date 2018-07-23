@@ -40,7 +40,13 @@ With this read a game data analyst might have more tools to create a better camp
 
 ## Interesting (or not) Facts
 
-Longest Campaign:
+* The **longest campaign** ran for 91 days and was for 'Heroic Chess' A legendary new board game!"
 
-Least Funded Board Game:
+* There have been 87 titles with **0$USD funding**. Among the names:"The Family Soup Bowl","You Ate My Pie!" and "SlenderMan: Board of Horrors" (!).
+
+* The **most overfunded game** is [something](https://www.kickstarter.com/projects/1456271622/band-of-brothers-2nd-chance-0) that I haven't heard about. Ah OK, it had a $1 funding goal :/.
+
+* The **most backed game** has been [Exploding Kittens](https://www.kickstarter.com/projects/elanlee/exploding-kittens) with nearly 220,000. The second is Bears vs Babies - A Card Game, and yeah it is from the same guys.
+
+* The **most succesful board game project** ever in Kickstarter is the reprint [Kingdom Death Monster](https://www.kickstarter.com/projects/poots/kingdom-death-monster-15) with more than 12 millions dollars. People have to wait until late 2020 to get the game, 4 years after the campaign!reex
 
