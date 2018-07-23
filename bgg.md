@@ -1,7 +1,7 @@
 
 # What is the BGG?
 
-[This](https://boardgamegeek.com/) 90's looking page is the reference website for gamers. It has information from 10.000 games, but for this analysis we will consider only the TOP 5% (5000).
+[This](https://boardgamegeek.com/) 90's looking page is the reference website for gamers. It has information from 10.000 games, but for this analysis we will consider only the TOP 5% (5000), which still a bunch.
 
 This is what happens if we divide them by released year:
 
@@ -28,6 +28,8 @@ But which percentage of them comes from KS?
   height="500"
    frameborder='0'>
 </iframe></p>
+
+As per that graph, very few KS games made the top 100 so far :/.
 
 And the question is: Is a large overfunded game equals to a good ranked one?
 
