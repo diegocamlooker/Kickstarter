@@ -4,6 +4,7 @@ In less than 8 years of existence, the platform:
 
 <p align="center">
 <iframe
+  id="looker"
   src="https://dcl.dev.looker.com/embed/looks/871"
   width="400"
   height="250"
