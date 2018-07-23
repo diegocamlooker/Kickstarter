@@ -14,7 +14,7 @@ test dynamic frames
   {
   "type": "look:filters:update",
   "filters": {
-    "state": "failed",
+    "kickstarter.state": "failed",
   }
 }
 </iframe></p>
