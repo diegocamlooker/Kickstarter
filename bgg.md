@@ -13,7 +13,7 @@ This is what happens if we divide them by released year:
    frameborder='0'>
 </iframe></p>
 
-If you check the graph above, more games doesn't equal to better games (used the `geek rating`), and again, we are not counting 95% of them that hasn't made the cut!
+If you check the graph above, **more games doesn't equal to better games** (used the `geek rating`), and again, we are not counting 95% of them that hasn't made the cut!
 
 Since 2011, there are much more games released in KS that the industry could even play:
 
