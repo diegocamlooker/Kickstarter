@@ -1,7 +1,7 @@
 
 # Let's take a look on my shelves!
 
-My [humble collection](https://boardgamegeek.com/user/bbol24) contains close to 150 titles, in which:
+My [humble collection](https://boardgamegeek.com/collection/user/bbol24?own=1&subtype=boardgame&ff=1) contains close to 150 titles, in which:
 
 <p align="center">
 <iframe
