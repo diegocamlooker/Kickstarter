@@ -2,25 +2,6 @@
 
 In less than 8 years of existence, the platform: 
 
-test dynamic frames
----
-<p align="center">
-<iframe
-  id="looker"
-   src="https://dcl.dev.looker.com/embed/looks/871?embed_domain=https://diegocamlooker.github.io/Kickstarter/"
-  width="400"
-  height="250"
-   frameborder='0'>
-  {
-  "type": "look:filters:update",
-  "filters": {
-    "kickstarter.state": "failed",
-  }
-}
-</iframe></p>
-
----
-
 <p align="center">
 <iframe
   src="https://dcl.dev.looker.com/embed/looks/871"
