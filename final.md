@@ -2,14 +2,9 @@
 ## Final thoughts
 
 
-This year I have pledged 6 KS campaigns in less than 7 months. As the industry grows, you need to adapt 
+With this analysis powered by Looker, we had been able to figure out how sucessful TableTop gaming is in Kickstarter, the biggest crownfunding platform in the world. We also have wondered how sustainable is this in the future, and how that will impact the average gamer habits. Also, we tried to find out what makes a project succesful by taking a look on goal, overfunding, campaign days, etc. and discovered how more games, doesn't mean more quality, and also, more success doesn't mean a better game. 
 
-blablablablablablabla
-
-
-
-
-
+With this read a game data analyst might have more tools to create a better campaign.
 
 ---
 
