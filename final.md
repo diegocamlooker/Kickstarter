@@ -11,8 +11,11 @@ With this read a game data analyst might have more tools to create a better camp
 ## Future work
 
 * Choose a classification technique (k-NNs, SVC, Random Forest, etc) and create a real prediction model. 
+
 * Create a website based on it that can determine if the project you have in your head would be succesful or not with a given % accuracy.
+
 * SSO embed in GitHub Pages project.
+
 * Javascript events with dynamic frames:
 
 ```
@@ -33,8 +36,10 @@ With this read a game data analyst might have more tools to create a better camp
 ```
 
 * Ammend the `Kickstarter` dataset with a new column containing the `bgg name` field related to that specific `project name`, in order to not to miss data when joining both tables in the ``explore{}``.
+
 * Having more info to play with: number of pledges, backers country, number of updates in the campaign, comments in the page, video yes/no, etc...
-* Stop buying more games, and play them!
+
+Tip 8: Stop buying more games, and play them!
 
 ---
 
