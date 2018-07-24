@@ -117,7 +117,7 @@ But normally, you don't want to only reach your funding goal, but also get a hig
    frameborder='0'>
 </iframe></p>
 
-Not that much! Historically, a game gets funded up to **max of 2 times** of its funding, but this is changing:
+It seems to be not that bad! Historically, a game gets funded up to **max of 4/5 times** of its funding, and there is a positive trend with it as well:
 
 <p align="center">
 <iframe
