@@ -87,7 +87,7 @@ If we compare BoardGames with the **rest of the KS population**:
 
 Here we realize that:
 
-- Tabletop fans are passionate, they back way more and on higher pledges than the average.
+- Tabletop fans are passionate and have a collector mind, they back way more and on higher pledges than the average.
 
 - **A shorter campaign usually has a better performance than a long one (!)**.
 
