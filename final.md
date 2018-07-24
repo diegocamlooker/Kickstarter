@@ -53,5 +53,5 @@ With this read a game data analyst might have more tools to create a better camp
 
 * The **most backed game** has been [Exploding Kittens](https://www.kickstarter.com/projects/elanlee/exploding-kittens) with nearly 220,000. The second is Bears vs Babies - A Card Game, and yeah it is from the same guys.
 
-* The **most succesful board game project** ever in Kickstarter is the reprint [Kingdom Death Monster](https://www.kickstarter.com/projects/poots/kingdom-death-monster-15) with more than 12 millions dollars. People have to wait until late 2020 to get the game, 4 years after the campaign!
+* The **most succesful board game project** ever in Kickstarter is the reprint of [Kingdom Death Monster](https://www.kickstarter.com/projects/poots/kingdom-death-monster-15) with more than 12 millions dollars. People have to wait until late 2020 to get the game, 4 years after the campaign!
 
