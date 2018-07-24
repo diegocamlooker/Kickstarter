@@ -45,7 +45,7 @@ And the question is: Is a large overfunded game equals to a good ranked one?
 
 *"Hey Diego, to wrap up we'd like to know more about your experience - Would you tell us?"*
 
-Of course! Let's see my collection. 
+Of course! Let's see my collection.  
 
 
 ---
