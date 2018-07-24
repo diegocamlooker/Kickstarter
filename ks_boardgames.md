@@ -111,13 +111,13 @@ But normally, you don't want to only reach your funding goal, but also get a hig
 
 <p align="center">
 <iframe
-  src="https://dcl.dev.looker.com/embed/looks/898"
+  src="https://dcl.dev.looker.com/embed/looks/928"
   width="800"
   height="500"
    frameborder='0'>
 </iframe></p>
 
-Not that much! Historically, a game gets funded up to **max of 9 times** of its funding, but this is changing:
+Not that much! Historically, a game gets funded up to **max of 2 times** of its funding, but this is changing:
 
 <p align="center">
 <iframe
