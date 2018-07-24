@@ -95,8 +95,9 @@ And how the rank changed the last 5 years:
 
 > Tip 3: Project design is what makes a project succesful. 
 
-People has increasingly investing on non-technological stuff! Too much computers during the day may and prefer analog hobbies?
-Wow, it is really impressive how much money is spent on Board Games in KS! Let's take a deeper look on that.
+People has increasingly investing on non-technological stuff! Too much computers during the day maybe and prefer analog hobbies?
+
+And WOW! it is really impressive how much money is spent on Board Games in KS! Let's take a deeper look on that.
 
 
 ---
