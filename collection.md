@@ -31,6 +31,8 @@ As a reference, we include the top 10 games in BGG that have started as a KS cam
 
 We can find there mid-to-heavy games from the last 5 years (Cult of the new) with tons of miniatures.
 
-This year so far, I've backed 6 KS campaigns, I had also to adapt to this new industry shift: we no longer go to a shop to buy something, but we do help a crazy project on somebody's head come to life and then wait for a year to own it.
+This year so far, I've backed 6 KS campaigns, I had also to adapt to this new industry shift: we no longer go to a shop to buy something, but we do help a crazy project on somebody's head come to life and then wait for a year to own it. 
+
+And now we have some tips to be one of those!
 
 Move to [Final thoughts and and future work page](https://diegocamlooker.github.io/Kickstarter/final)
