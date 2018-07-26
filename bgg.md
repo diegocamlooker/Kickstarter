@@ -43,6 +43,8 @@ And the question is: Is a large overfunded game equals to a good ranked one?
 
 > Tip 7: A very successful campaign doesn't mean that the game is good. Some of the best ranked games have barely met their funding goal. If a game is any good, it will get the recognizition it deserves indepently.
 
+Gloomhaven is a good example of a game that came from nowhere, had an average campaign but the word of mouth lead to second [campaign](https://www.kickstarter.com/projects/1350948450/gloomhaven-second-printing), 10 times more successful than the first one. Now ranks as TOP1 in BGG and it's been on my table for weeks now.
+
 *"Hey Diego, to wrap up we'd like to know more about your experience - Would you tell us?"*
 
 Of course! Let's see my collection.  
