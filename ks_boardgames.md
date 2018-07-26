@@ -43,7 +43,7 @@ Which correspond with the
 
 from the total.
 
-Where is this money coming from?
+Where is this money going to?
 
 <p align="center">
 <iframe
