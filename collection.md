@@ -3,8 +3,6 @@
 
 My [humble collection](https://boardgamegeek.com/collection/user/bbol24?own=1&subtype=boardgame&ff=1) contains close to 150 titles, in which:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sPnR7e1xs7M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <p align="center">
 <iframe
   src="https://dcl.dev.looker.com/embed/looks/882"
