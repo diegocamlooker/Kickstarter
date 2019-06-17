@@ -6,7 +6,7 @@ In less than 8 years of existence, the platform:
 
 <p align="center">
 <iframe
-  src="https://dcl.dev.looker.com/login/embed/%2Fembed%2Fdashboards%2F358?nonce=%22auQm4mBR3u7nsDv5%22&time=1560783828&session_length=600&external_user_id=%2215%22&permissions=%5B%22access_data%22%2C%22see_looks%22%2C%22see_user_dashboards%22%2C%22see_lookml_dashboards%22%5D&models=%5B%22brazilian_congress%22%5D&group_ids=%5B%5D&external_group_id=%22%22&user_attributes=%7B%7D&access_filters=%7B%7D&first_name=%22flavia%22&last_name=%22embed%22&force_logout_login=false&signature=6YqRFVq0rRRBpo86PL48GNCXfYU%3D"
+  src="https://dcl.dev.looker.com/login/embed/%2Fembed%2Fdashboards%2F358?nonce=%22auQm4mBR3u7nsDv5%22&time=1560783828&session_length=600&external_user_id=%2215%22&permissions=%5B%22access_data%22%2C%22see_looks%22%2C%22see_user_dashboards%22%2C%22see_lookml_dashboards%22%5D&models=%5B%22brazilian_congress%22%5D&group_ids=%5B%5D&external_group_id=%22%22&user_attributes=%7B%7D&access_filters=%7B%7D&first_name=%22flavia%22&last_name=%22embed%22&force_logout_login=true&signature=6YqRFVq0rRRBpo86PL48GNCXfYU%3D"
   width="800"
   height="450"
    frameborder='0'>
