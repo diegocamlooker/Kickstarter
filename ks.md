@@ -1,16 +1,5 @@
 # Kickstarter 
 
-Test embed
-
-<p align="center">
-<iframe
-  src="https://browserstack.looker.com/login/embed/%2Fembed%2Fdashboards%2F93?nonce=%22930ea18e7c7a94da5055e88332287b6e%22&time=1560514743&session_length=2592000&external_user_id=%2265%22&permissions=%5B%22see_user_dashboards%22%2C%22see_lookml_dashboards%22%2C%22access_data%22%2C%22see_looks%22%5D&models=%5B%22browserstack_production_embed%22%5D&access_filters=%7B%7D&first_name=%22Some+User%22&last_name=%22%22&force_logout_login=true&signature=YOcSsoLX7SrpqgDh5wl6TRW1s3A%3D&group_ids=%5B4%5D&user_attributes=%7B%22group_id%22%3A2%7D"
-  width="400"
-  height="250"
-   frameborder='0'>
-</iframe></p>
-
-
 
 In less than 8 years of existence, the platform: 
 
